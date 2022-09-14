@@ -26,3 +26,20 @@
     transform: rotateY(360deg);
   }
 }
+
+/*popular song modal css*/
+.modal-dialog {
+  max-width: 880px;
+  margin: 30px auto;
+}
+
+.modal-body {
+  position: relative;
+  padding: 0;
+}
+
+.btn-close {
+  position: absolute;
+  top: 0;
+  right: -30px;
+}
